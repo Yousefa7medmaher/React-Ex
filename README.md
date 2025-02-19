@@ -1,3 +1,4 @@
+![React](React.png)
 # React Repository
 
 ## Introduction
