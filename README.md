@@ -44,19 +44,37 @@ This section contains exercises, images, and video resources to help you underst
 ### Videos
 [Login Video](Login.mp4)
 
-Source Code
+### Source Code
 
 This project includes the following source code files:
 
-Login Component: Implemented in Login.tsx
+- **Login Component**: Implemented in [`Login.tsx`](./Login.tsx)
+- **Styles**: Defined in [`page.module.css`](./page.module.css)
 
-Styles: Defined in page.module.css
+### File Descriptions
 
-File Descriptions
+- **[`Login.tsx`](./Login.tsx)**: This file contains the React functional component for the login page. It includes input fields for user authentication and handles login functionality.
+- **[`page.module.css`](./page.module.css)**: This file contains the CSS module for styling the login page, ensuring a clean and responsive design.
 
-Login.tsx: This file contains the React functional component for the login page. It includes input fields for user authentication and handles login functionality.
+### Usage
 
-page.module.css: This file contains the CSS module for styling the login page, ensuring a clean and responsive design.
+1. Ensure that the required dependencies are installed by running:
+   ```bash
+   npm install
+   ```
+2. Run the project using:
+   ```bash
+   npm start
+   ```
+
+### Additional Information
+
+- The `Login.tsx` component utilizes React hooks such as `useState` and `useEffect` for state management.
+- The `page.module.css` file uses CSS modules to scope styles locally, avoiding conflicts with global styles.
+
+Feel free to modify and extend these files to fit your project's needs!
+
+
 ---
 This repository is a great resource for both beginners and advanced developers looking to deepen their understanding of React.
 
