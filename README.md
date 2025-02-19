@@ -35,13 +35,15 @@ State allows components to manage dynamic data. Hooks, introduced in React 16.8,
 This section contains exercises, images, and video resources to help you understand React concepts in depth.
 
 ### Exercises
--Login page and good effect in CSS using advanced topics like mask and so on. 
+- Login page and good effect in CSS using advanced topics like mask and so on.
 
 ### Images
- - [Login](Login.png) 
+![Login](Login.png)
 
 ### Videos
-- [Login](Login.mp4) 
+[Login Video](Login.mp4)
 
 ---
 This repository is a great resource for both beginners and advanced developers looking to deepen their understanding of React.
+
+
